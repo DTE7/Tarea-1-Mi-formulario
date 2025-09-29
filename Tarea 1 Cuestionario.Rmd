@@ -1,0 +1,15 @@
+---
+title: "Tarea Cuestionario"
+author: "David Tencio Escobar"
+date: "2025-09-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Cuestionario de percepción de inseguridad ciudadana en mi comunindad
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRxR5Y4mNEKBfOvRUvJn1ivBjVH_PSjLSVvsJxRmFO2pVZHA/viewform?embedded=true" width="640" height="3097" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
